@@ -1,0 +1,20 @@
+{
+  "name": "messagefrombinarycode",
+  "version": "1.0.0",
+  "description": "You are taking part in an Escape Room challenge designed specifically for programmers. In your efforts to find a clue, you've found a binary code written on the wall behind a vase, and realized that it must be an encrypted message. After some thought, your first guess is that each consecutive `8` bits of the code stand for the character with the corresponding [extended ASCII code](https://www.ascii-code.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/messageFromBinaryCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/messageFromBinaryCode/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/messageFromBinaryCode#readme"
+}
